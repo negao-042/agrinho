@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 let veiculo;
 let pontosDeEntrega = [];
 let conectividade = 0;
