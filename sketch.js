@@ -1,4 +1,8 @@
+//Leve o sinal da cidade até o campo neste jogo educativo e divertido!
+//Você controla um veículo 📡 que deve entregar conectividade (📶) a 10 pontos espalhados no campo antes que o tempo acabe ⏳.
 
+//Explore a estrada, desvie de obstáculos e conecte áreas remotas — tudo isso em apenas 60 segundos.
+//Será que você consegue conectar o campo à cidade a tempo
 
 
 
